@@ -48,7 +48,7 @@ function Sidebar() {
 
                 <hr className="sidebar-divider my-0" />
 
-                <li className="nav-item active">
+                <li className="nav-item active" style={{backgroundColor:"#924ACD"}}>
                     <Link className="nav-link" to="/dashboard">
                         <img
                             className="mr-2"
