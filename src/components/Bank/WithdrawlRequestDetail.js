@@ -64,7 +64,6 @@ function WithdrawalRequest() {
                         fontSize: "28.8px",
                         fontWeight: "400",
                         lineHeight: "50.4px",
-                        color: "#232D42CC",
                       }}
                     >
                       Bank Details

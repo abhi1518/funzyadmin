@@ -185,7 +185,7 @@ function Dashboard() {
                           </div>
                         </div>
                         <div className="col-xl-1 col-md-1 mb-2 mt-2 text-center">
-                          <div className="vertical-divider"></div>
+                          <div className="vertical-divider" style={{borderLeft:"2px solid #ccc", height:"60px"}}></div>
                         </div>
 
                         <div className="col-xl-2 col-md-2 mb-2 text-center mt-2">

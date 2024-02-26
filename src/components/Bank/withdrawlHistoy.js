@@ -40,7 +40,6 @@ function WithdrawalRequest() {
                         fontSize: "28.8px",
                         fontWeight: "400",
                         lineHeight: "50.4px",
-                        color: "#232D42CC",
                       }}
                     >
                       Withdrawal History
@@ -60,7 +59,7 @@ function WithdrawalRequest() {
                     <tbody>
                       {requestData.map((request) => (
                         <tr key={request.id}>
-                          <td>{request.phoneNumber}</td>
+                          <td>+91 {request.phoneNumber}</td>
                           <td>{request.balance}</td>
                           <td>{request.amount}</td>
                           <td>
