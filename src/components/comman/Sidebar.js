@@ -59,7 +59,7 @@ function Sidebar() {
                         <span>Dashboard</span></Link>
                 </li>
                 {/* <hr className="sidebar-divider" /> */}
-                <li className="nav-item colors">
+                <li className="nav-item colors" style={{backgroundColor:"#924ACD"}}>
                     <a className="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUser"
                         aria-expanded="true" aria-controls="collapseUser">
                         <img
@@ -76,7 +76,7 @@ function Sidebar() {
                         </div>
                     </div>
                 </li>
-                <li className="nav-item">
+                <li className="nav-item" style={{backgroundColor:"#924ACD"}}>
                     <a className="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseAdminAgent"
                         aria-expanded="true" aria-controls="collapseAdminAgent">
                         <img
@@ -96,7 +96,7 @@ function Sidebar() {
                         </div>
                     </div>
                 </li>
-                <li className="nav-item">
+                <li className="nav-item" style={{backgroundColor:"#924ACD"}}>
                     <a className="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseAgent"
                         aria-expanded="true" aria-controls="collapseAgent">
                         <img
@@ -114,7 +114,7 @@ function Sidebar() {
                         </div>
                     </div>
                 </li>
-                <li className="nav-item">
+                <li className="nav-item" style={{backgroundColor:"#924ACD"}}>
                     <a className="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseBank"
                         aria-expanded="true" aria-controls="collapseBank">
                         <img
